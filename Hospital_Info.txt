@@ -1,0 +1,5 @@
+ Name of the Hospital- 
+Unique Username of the hospital- 
+The Branch Number of the Hospital- 
+the Landline Number- 
+The E-Mail Adderess- 

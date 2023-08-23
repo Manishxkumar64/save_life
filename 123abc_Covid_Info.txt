@@ -1,0 +1,4 @@
+Total Covid-19 Cases 85201
+Total number of acive Covid-19  cases 4352
+Total number of recoverd  Covid-19  cases 80697
+Total number of deaths due to Covid-19 cases 152

@@ -1,0 +1,17 @@
+Hospital_Name : RML Code : RML!@
+Hospital_Name : BLK Code : KLB
+Hospital_Name : City Hospital Code : 123ABc
+Hospital_Name : AMAAN HOSPITAL Code : amaanh
+Hospital_Name : a Code : a789
+Hospital_Name : ak Code : ak1
+Hospital_Name : AIIMS Code : AIMS
+Hospital_Name : AIIMS Code : 123MAK
+Hospital_Name : mrkhan Code : khan786
+Hospital_Name : AMAAN Code : mak9191
+Hospital_Name : AMAAN Code : mak9191
+Hospital_Name : AMAAN Code : mak9191
+Hospital_Name : Amaan  Code : 123aeo
+Hospital_Name : AIMS Code : 123abc
+Hospital_Name : RML Code : 987rml
+Hospital_Name : RML Code : 523rml
+Hospital_Name : Robin Code : HIMYM

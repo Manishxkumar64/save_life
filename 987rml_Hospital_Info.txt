@@ -1,0 +1,6 @@
+Name of the Hospital- RML
+Unique Username of the hospital- 987rml
+The Branch Number of the Hospital- 523abc
+The Address- CP
+The Landline Number- 01125451388
+The E-Mail Adderess- kamaan523@gmail.com

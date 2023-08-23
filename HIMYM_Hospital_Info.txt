@@ -1,0 +1,6 @@
+Name of the Hospital- Robin
+Unique Username of the hospital- HIMYM
+The Branch Number of the Hospital- 1256
+The Address- NY
+The Landline Number- 01125461377
+The E-Mail Adderess- kamaan523@gmail.com

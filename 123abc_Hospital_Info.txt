@@ -1,0 +1,6 @@
+Name of the Hospital- AIMS
+Unique Username of the hospital- 123abc
+The Branch Number of the Hospital- 321ta
+The Address- CP
+The Landline Number- 01125451388
+The E-Mail Adderess- kamaan523@gmail.com

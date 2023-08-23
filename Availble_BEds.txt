@@ -1,0 +1,2 @@
+total number of beds available in hospital  
+Number of beds available currently  

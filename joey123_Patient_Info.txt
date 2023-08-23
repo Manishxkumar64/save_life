@@ -1,0 +1,7 @@
+Name of the Patient- Joey
+Unique Username of the Patient- joey123
+Age- 30
+Gender- Male
+Adderess- NY
+The Phone Number- 1325648790
+The E-Mail Adderess- kamaan523@gmail.com

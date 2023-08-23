@@ -1,0 +1,8 @@
+code number:C-Appoint1
+Name of the Patient- Raj
+Unique Username of the Patient- Raj123
+Age- 35
+Gender- Male
+Adderess- CP
+The Phone Number- 1234567890
+The E-Mail Adderess- kamaan523@gmail.com
